@@ -39,7 +39,7 @@ npm run start
 
 Access the API at the designated local server URL.
 
-Tutorial video here: [🎬](https://drive.google.com/file/d/1fpahinw7MHVpvKkKTTYlHB_H-pf92YjY/view?usp=sharing)
+Tutorial video here: [link video](https://drive.google.com/file/d/1fpahinw7MHVpvKkKTTYlHB_H-pf92YjY/view?usp=sharing)
 
 ## License
 
